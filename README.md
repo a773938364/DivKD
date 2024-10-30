@@ -51,7 +51,7 @@ bash run_Ro_graph2tree_both_kd.sh
 
 
 ### Main Results
-We reproduce the main results of **Roberta-base-DeductiveReasoner** in the following table.
+We reproduce the main results of **LLaMA-Graph2Tree-Z + DivKD** in the following table.
 
 | Dataset                 | Value Accuracy | 
 |:------------------------|:--------------:|
